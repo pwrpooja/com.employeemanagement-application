@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>net.javaguides.springboot</groupId>
 	<artifactId>com.emplyoeemangment-application</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>com.emplyoeemangment-application</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
